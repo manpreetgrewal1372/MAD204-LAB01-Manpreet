@@ -89,9 +89,9 @@ public class Main
         String c = in.nextLine();
         switch (c)
         {
-            case "1": operators();
+            case "1": operators();   //this will trigger to the operators() function
             break;
-            case "2": casting();
+            case "2": casting();     // this will trigger to the casting() function 
             break;
             case "3":
                 System.out.print("Number: ");
