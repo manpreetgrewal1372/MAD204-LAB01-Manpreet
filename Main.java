@@ -7,6 +7,10 @@
 
 import java.util.*;
 
+/**
+ * Main application class for Gradebook & Utilities.
+ * Provides a menu to add students, enter grades, display information, and run utilities.
+ */
 public class Main
 {
     static ArrayList<Student> list = new ArrayList<>();
