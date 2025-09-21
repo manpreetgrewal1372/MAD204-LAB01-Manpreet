@@ -22,13 +22,13 @@ public class Main
             String ch = in.nextLine();
             switch (ch)    //Used switch statement to call function based on the case
             {
-                case "1": addStudent();
+                case "1": addStudent();  // when somebody will press 1 it will call addStudent() function
                 break;
-                case "2": enterGrades();
+                case "2": enterGrades();  //when somebody will press 1 it will call enterGrades() function
                 break;
-                case "3": showAll();
+                case "3": showAll();  //when somebody will press 1 it will call showAll() function
                 break;
-                case "4": utilities();
+                case "4": utilities();  //when somebody will press 1 it will call utilities() function
                 break;
                 case "5": run = false;
                 break;
